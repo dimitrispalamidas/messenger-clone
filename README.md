@@ -3,10 +3,10 @@
 ## Description
 This is a repository for a Real-Time Messenger Clone: Next.js 13, React, Tailwind, Prisma, MongoDB, NextAuth, Pusher.
 
-Live Demo
+## Live Demo
 • https://messenger-clone-tau-three.vercel.app/
 
-Demo Info
+## Demo Info
 Create an account.
 
 Start your chat by clicking on a user.
@@ -15,7 +15,7 @@ You can create a group of users in messages section.
 
 You can change your public information on your user icon down-left.
 
-Features
+## Features
 
 - Real-time messaging using Pusher
 - Message notifications and alerts
